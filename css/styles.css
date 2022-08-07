@@ -1,0 +1,12 @@
+:root {
+  --color-body: #83869a;
+  --color-headings: #13183f;
+  --color-shadow: #666ca3;
+  --color-white: #ffffff;
+  --color-links: #f74780;
+  --color-activeLinks: #ffa7c3;
+  --color-brightGradient: #f02aa6 - ff6f48;
+  --color-darkGradient: #4851ff-f02aa6;
+}
+
+/* Typography */
