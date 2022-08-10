@@ -1,0 +1,53 @@
+<div class="hero grid grid--cols2">
+  <div class="hero__header">
+    <h2 class="hero__title-mobile">Maximize skill, minimize budget</h2>
+    <h1 class="hero__title-desktop">Maximize skill, minimize budget</h1>
+    <p class="hero__content">
+      Our modern courses across a range of in-demand skills will give you the
+      knowledge you need to live the life you want.
+    </p>
+    <button class="btn btn--secondary hero__button">Get Started</button>
+  </div>
+
+  <div class="hero__image">
+    <picture class="hero__image-mobile">
+      <source
+        type="image/webp"
+        srcset="
+          assets/image-hero-mobile.webp 1x,
+          assets/image-hero-mobile.webp 2x
+        "
+      />
+      <source
+        type="image/png"
+        srcset="
+          assets/image-hero-mobile.png    1x,
+          assets/image-hero-mobile@2x.png 2x
+        "
+      />
+      <img src="assets/image-hero-mobile@2x.png" alt="" />
+    </picture>
+
+    <picture class="hero__image-desktop">
+      <source
+        type="image/webp"
+        srcset="
+          assets/image-hero-desktop.webp    1x,
+          assets/image-hero-desktop@2x.webp 2x
+        "
+      />
+      <source
+        type="image/png"
+        srcset="
+          assets/image-hero-desktop.png    1x,
+          assets/image-hero-desktop@2x.png 2x
+        "
+      />
+      <img
+        class="hero__floating-image"
+        src="assets/image-hero-desktop@2x.png"
+        alt=""
+      />
+    </picture>
+  </div>
+</div>
