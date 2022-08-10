@@ -1,0 +1,24 @@
+{
+  "name": "skilled-elearning-landing-page",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Skilled e-learning landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutugi-c/Skilled-elearning-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutugi-c/Skilled-elearning-landing-page/issues"
+  },
+  "homepage": "https://github.com/mutugi-c/Skilled-elearning-landing-page#readme",
+  "devDependencies": {
+    "cssnano": "^5.1.12",
+    "postcss": "^8.4.16"
+  }
+}
