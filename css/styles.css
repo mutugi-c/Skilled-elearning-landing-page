@@ -115,6 +115,7 @@ h4 {
 .logo {
   display: flex;
   justify-content: space-between;
+  max-width: 1110px;
   padding: 1rem;
 }
 
@@ -221,6 +222,10 @@ h4 {
 }
 
 /* Features Block */
+.features--block {
+  max-width: 1110px;
+}
+
 @media screen and (min-width: 768px) {
   .features--block {
     margin: 0 2.5rem 5.375rem 2.5rem;
@@ -234,6 +239,10 @@ h4 {
 }
 
 /* Hero */
+.hero {
+  max-width: 1110px;
+}
+
 .hero__image {
   margin: auto;
 }
