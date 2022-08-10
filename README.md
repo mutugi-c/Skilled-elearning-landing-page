@@ -26,8 +26,7 @@ This task aims to create a landing page that should enable users to:
 
 ### Links
 
-- Live Site URL: [(https://landing-page-skilled-elearning.netlify.app/)]
-
+- Live Site URL: https://landing-page-skilled-elearning.netlify.app/
 ## My process
 
 ### Built with
