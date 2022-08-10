@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/mutugi-c/Skilled-elearning-landing-page/issues"
   },
-  "homepage": "https://github.com/mutugi-c/Skilled-elearning-landing-page#readme",
-  "devDependencies": {
-    "cssnano": "^5.1.12",
-    "postcss": "^8.4.16"
-  }
+  "homepage": "https://github.com/mutugi-c/Skilled-elearning-landing-page#readme"
 }
