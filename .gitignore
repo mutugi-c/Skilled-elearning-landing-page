@@ -6,3 +6,4 @@
 .prettierignore
 .cache/
 dist/
+node_modules/

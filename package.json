@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mutugi-c/Skilled-elearning-landing-page/issues"
   },
-  "homepage": "https://github.com/mutugi-c/Skilled-elearning-landing-page#readme"
+  "homepage": "https://github.com/mutugi-c/Skilled-elearning-landing-page#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
