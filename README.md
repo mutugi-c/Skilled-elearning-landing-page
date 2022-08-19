@@ -36,3 +36,9 @@ This task aims to create a landing page that should enable users to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### ToDo
+
+- Make logo button and cards adapt to hovering
+- Work on images
+- Apply a box-shadow to cards
